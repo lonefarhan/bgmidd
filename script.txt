@@ -1,0 +1,5 @@
+chmod +x *
+./install.sh 
+pip install telebot
+chmod +x *
+python laila.py
